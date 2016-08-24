@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E7D6B2F9-C54D-4EC1-884B-9638AA162708}</ProjectGuid>
-    <RootNamespace>My5NumbersAscending</RootNamespace>
+    <ProjectGuid>{7303CBD9-95CE-4231-92CC-19B26A972AB8}</ProjectGuid>
+    <RootNamespace>problem6</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
